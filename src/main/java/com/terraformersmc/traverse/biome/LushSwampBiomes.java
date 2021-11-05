@@ -51,9 +51,9 @@ public class LushSwampBiomes {
 			.temperature(0.8F)
 			.downfall(0.9F)
 			.effects(TraverseBiomes.createDefaultBiomeEffects()
-					.grassColor(0x7FE03E)
-					.foliageColor(0x58EA33)
-					.waterColor(0x617B64)
-					.waterFogColor(0x232317))
+					.grassColor(0x6A7039)
+					.foliageColor(0x59AE30)
+					.waterColor(0x14A2C5)
+					.waterFogColor(0x14A2C5))
 			.build();
 }

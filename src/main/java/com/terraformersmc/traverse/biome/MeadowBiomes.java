@@ -22,6 +22,8 @@ public class MeadowBiomes {
 			.temperature(0.8F)
 			.downfall(0.7F)
 			.effects(TraverseBiomes.createDefaultBiomeEffects()
+                    .waterColor(0x20A3CC)
+                    .waterFogColor(0x20A3CC)
 					.grassColor(0x65CC53)
 					.foliageColor(0x5DD64A)
 			)

@@ -32,8 +32,8 @@ public class MiniJungleBiomes {
 			.temperature(0.95F)
 			.downfall(0.9F)
 			.effects(TraverseBiomes.createDefaultBiomeEffects()
-					.waterColor(0x003320)
-					.waterFogColor(0x052721)
+					.waterColor(0x0D8AE3)
+                    .waterFogColor(0x0D8AE3)
 			)
 			.build();
 }

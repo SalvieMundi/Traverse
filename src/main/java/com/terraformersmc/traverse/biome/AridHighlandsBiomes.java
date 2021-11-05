@@ -37,8 +37,10 @@ public class AridHighlandsBiomes {
 			.temperature(2.0F)
 			.downfall(0.0F)
 			.effects(TraverseBiomes.createDefaultBiomeEffects()
-					.grassColor(0xBACD78)
-					.foliageColor(0x80A02E)
+                    .waterColor(0x55809E)
+                    .waterFogColor(0x55809E)
+					.grassColor(0xBFB755)
+					.foliageColor(0xAEA42A)
 			)
 			.playerSpawnFriendly()
 			.build();

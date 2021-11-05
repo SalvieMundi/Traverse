@@ -25,6 +25,8 @@ public class RollingHillsBiomes {
 			.temperature(0.5F)
 			.downfall(0.8F)
 			.effects(TraverseBiomes.createDefaultBiomeEffects()
+                    .waterColor(0x056bd1)
+                    .waterFogColor(0x056bd1)
 					.grassColor(0x7FE03E)
 					.foliageColor(0x58EA33)
 			)

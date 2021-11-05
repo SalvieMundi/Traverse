@@ -18,6 +18,8 @@ public class AutumnalWoodsBiomes {
 			.addDefaultSpawnEntries()
 			.addSpawnEntry(new SpawnSettings.SpawnEntry(EntityType.WOLF, 5, 4, 4))
 			.effects(TraverseBiomes.createDefaultBiomeEffects()
+                    .waterColor(0x20A3CC)
+                    .waterFogColor(0x20A3CC)
 					.grassColor(0xD6C23D)
 					.foliageColor(0xD2D31F)
 			)

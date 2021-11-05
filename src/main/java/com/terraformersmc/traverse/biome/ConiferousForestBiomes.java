@@ -23,6 +23,8 @@ public class ConiferousForestBiomes {
 			.addDefaultSpawnEntries()
 			.addSpawnEntry(new SpawnSettings.SpawnEntry(EntityType.WOLF, 5, 4, 4))
 			.effects(TraverseBiomes.createDefaultBiomeEffects()
+					.waterColor(0x3B6CD1)
+                    .waterFogColor(0x3B6CD1)
 					.grassColor(0x338235)
 					.foliageColor(0x338235)
 			)

@@ -32,6 +32,8 @@ public class WoodlandsBiomes {
 			.effects(TraverseBiomes.createDefaultBiomeEffects()
 					.grassColor(0x99A955)
 					.foliageColor(0x849E4A)
+                    .waterFogColor(0x286378)
+                    .waterColor(0x286378)
 			)
 			.playerSpawnFriendly()
 			.build();
